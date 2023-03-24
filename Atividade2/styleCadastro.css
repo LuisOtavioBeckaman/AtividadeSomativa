@@ -1,0 +1,10 @@
+
+.formula {
+display: flex;
+justify-content: center;
+background-image:url(img/backgorund2.jpg);
+background-size: cover;
+font-family: 'Courier New', Courier, monospace;
+color: #f0f8ff;
+height: 100vh;
+}

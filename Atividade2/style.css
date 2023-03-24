@@ -1,0 +1,9 @@
+
+.personax {
+   font-family: 'Times New Roman', Times, serif;
+    color: aliceblue;
+    height: 100vh;
+    background: rgb(131,58,180);
+    background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(201,186,255,1) 50%, rgba(252,176,69,1) 100%);
+    justify-content: center;
+    }
